@@ -1,6 +1,7 @@
 # Data Science Bootcamp Assessment
 
 - `Data_Science_Written_Assessment.docx` / `.pdf`: written assessment, Sections A–G, with answers filled in.
+- `Data_Science_Written_Assessment_v2.docx` / `.pdf`: version 2 of the written assessment, with shorter beginner-level answers.
 - `Practical_Assessment.ipynb`: completed practical notebook, executed with outputs.
   - Linear regression on `Car_price.csv`: R² ≈ 0.861, RMSE ≈ 3,284.
   - Breast cancer classification (test accuracy): Decision Tree 0.9386, Logistic Regression 0.9649, KNN 0.9561.
